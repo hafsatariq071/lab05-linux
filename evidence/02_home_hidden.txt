@@ -1,0 +1,19 @@
+total 72
+drwxr-x--- 12 hafsatariq071 hafsatariq071 4096 Oct 16 04:19 .
+drwxr-xr-x  3 root          root          4096 Sep 16 17:47 ..
+-rw-------  1 hafsatariq071 hafsatariq071  567 Oct  4 13:17 .bash_history
+-rw-r--r--  1 hafsatariq071 hafsatariq071  220 Feb 13  2026 .bash_logout
+-rw-r--r--  1 hafsatariq071 hafsatariq071 3771 Feb 13  2026 .bashrc
+drwx------  2 hafsatariq071 hafsatariq071 4096 Sep 16 18:02 .cache
+-rw-rw-r--  1 hafsatariq071 hafsatariq071  189 Oct 16 04:11 .gitconfig
+-rw-------  1 hafsatariq071 hafsatariq071   20 Sep 25 12:17 .lesshst
+drwx------  3 hafsatariq071 hafsatariq071 4096 Oct  9 17:14 .local
+-rw-r--r--  1 hafsatariq071 hafsatariq071  807 Feb 13  2026 .profile
+drwx------  3 hafsatariq071 hafsatariq071 4096 Sep 25 08:42 .ssh
+drwxrwxr-x  4 hafsatariq071 hafsatariq071 4096 Oct  9 17:55 Assignment01
+drwxrwxr-x  5 hafsatariq071 hafsatariq071 4096 Oct  4 12:29 CC
+drwxrwxr-x  3 hafsatariq071 hafsatariq071 4096 Oct  4 13:24 Gitea
+drwxrwxr-x  3 hafsatariq071 hafsatariq071 4096 Sep 25 12:10 Lab02
+drwxrwxr-x  5 hafsatariq071 hafsatariq071 4096 Oct 16 04:19 lab05-linux
+drwxrwxr-x  2 hafsatariq071 hafsatariq071 4096 Sep 18 17:20 mylab
+drwxrwxr-x  3 hafsatariq071 hafsatariq071 4096 Oct  9 17:12 portfolio
